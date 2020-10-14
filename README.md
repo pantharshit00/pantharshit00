@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=pantharshit00&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![recontrib](https://github-readme-stats.vercel.app/api/pin/?username=pantharshit00&repo=recontrib&theme=dark)](https://github.com/pantharshit00/recontrib)
 [![bulletin](https://github-readme-stats.vercel.app/api/pin/?username=fus-marcom&repo=bulletin-react&show_owner=true&theme=gruvbox)](https://github.com/fus-marcom/bulletin-react)
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=pantharshit00&repo=dotfiles&theme=nightowl)](https://github.com/pantharshit00/dotfiles)
